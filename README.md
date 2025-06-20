@@ -1,0 +1,1 @@
+This is a beginners attempt at using a set of data between the speed of a car and the distance it travels to simulate testing of Linear, Polynomial, and Multiple Regression ML models using Numpy, SciPy, and SciKit.
